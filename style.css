@@ -113,3 +113,12 @@ footer {
     color: white;
     margin-top: 40px;
 }
+
+footer a {
+    color: white;
+    text-decoration: none;   /* 밑줄 제거 */
+}
+
+footer a:hover {
+    color: #aaa;             /* 마우스 올리면 색 바뀜 */
+}
